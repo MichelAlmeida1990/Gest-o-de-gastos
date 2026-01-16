@@ -13,8 +13,8 @@ Sistema empresarial freemium para gestão financeira com dashboard administrativ
 1. **Backend (Web Service)**
    - Conecte seu repositório GitHub
    - Root directory: `server`
-   - Build command: `npm install`
-   - Start command: `npm start`
+   - Build command: `npm install && npm run build`
+   - Start command: `node index.js`
    - Environment Variables:
      ```
      NODE_ENV=production
