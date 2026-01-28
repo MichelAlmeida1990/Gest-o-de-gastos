@@ -1,7 +1,7 @@
 {
   "name": "expenseflow",
   "version": "1.0.0",
-  "description": "Sistema de controle de gastos robusto com modelo freemium",
+  "description": "Sistema de controle de gastos robusto com modelo freemium - Deploy V2",
   "main": "server/index.js",
   "scripts": {
     "dev": "concurrently \"npm run server\" \"npm run client\"",
