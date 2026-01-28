@@ -103,3 +103,4 @@ Thumbs.db
 test_api.js
 test_login.json
 test-login.json
+.vercel
